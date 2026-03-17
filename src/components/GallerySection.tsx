@@ -4,24 +4,24 @@ import { Play } from "lucide-react";
 
 const videos = [
   {
-    id: "dQw4w9WgXcQ",
-    title: "Full Body Paint Restoration — 8 Yr Old Ford Endeavour",
-    thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+    id: "UIbKZvjX5Lw",
+    title: "Harrier Ke Is Look Ne Client Ko Di Ek BIG SMILE",
+    thumbnail: "https://img.youtube.com/vi/UIbKZvjX5Lw/maxresdefault.jpg",
   },
   {
-    id: "dQw4w9WgXcQ",
-    title: "Accidental BMW 5 Series Got Another Life",
-    thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+    id: "rXTcb_m_Ev8",
+    title: "This Accidental BMW 5 Series Got Another Life",
+    thumbnail: "https://img.youtube.com/vi/rXTcb_m_Ev8/maxresdefault.jpg",
   },
   {
-    id: "dQw4w9WgXcQ",
-    title: "Range Rover Defender Complete Transformation",
-    thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+    id: "QbNuK8qRhpA",
+    title: "Full Body Paint Restoration Of This 8 Yrs Old Ford Endeavour",
+    thumbnail: "https://img.youtube.com/vi/QbNuK8qRhpA/maxresdefault.jpg",
   },
   {
-    id: "dQw4w9WgXcQ",
-    title: "Premium PPF Installation on Mercedes AMG",
-    thumbnail: "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+    id: "KpT3ztRWpQU",
+    title: "New Life For This 11yrs Old & Completely Rusted XUV500",
+    thumbnail: "https://img.youtube.com/vi/KpT3ztRWpQU/maxresdefault.jpg",
   },
 ];
 
